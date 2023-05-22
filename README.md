@@ -45,3 +45,6 @@ This class will serve as a layer between the API and the database and will handl
 
 Sequelize's offerings are twofold. For us, the developers, we get to use object-oriented principles to model and manipulate the data. This makes our lives easier as these actions and concepts are more geared toward a language like JavaScript. This is the side we get to interface with.
 The other side of this is that after we interface with Sequelize, the library interprets our request to it and goes ahead to convey the request to the database and return to us with a response. This means we don't have to directly work with the SQL database, for the most part.
+
+## Deployment:
+https://sleepy-chamber-96747.herokuapp.com/
